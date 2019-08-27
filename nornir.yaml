@@ -1,0 +1,5 @@
+---
+core:
+  num_workers: 20
+inventory: 
+  plugin: nornir_inventory.MyInventory

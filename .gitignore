@@ -1,0 +1,9 @@
+.venv
+.network_discover
+__pycache__
+.vscode
+
+outputs/*
+
+secret*
+*.log
